@@ -20,4 +20,4 @@ export const server=http.createServer(async(req,res)=>{
   res.writeHead(200,{...headers,'Content-Length':data.length});res.end(req.method==='HEAD'?undefined:data);
  }catch(error){res.writeHead(error.code==='ENOENT'?404:500,security);res.end('Unable to serve file');}
 });
-server.listen(Number(process.env.PORT)||4173,'127.0.0.1',()=>console.log('Connect Lesson 6: http://127.0.0.1:'+(process.env.PORT||4173)));
+server.listen(Number(process.env.PORT)||4173,'0.0.0.0',()=>console.log('Connect Lesson 6: http://127.0.0.1:'+(process.env.PORT||4173)));
