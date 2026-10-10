@@ -1,0 +1,1 @@
+{"name":"connect-lesson6","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test lesson6.test.mjs"}}

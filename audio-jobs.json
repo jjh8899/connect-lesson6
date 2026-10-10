@@ -1,0 +1,355 @@
+[
+  {
+    "id": "p102-a1",
+    "lines": [
+      [
+        "G",
+        "Hi, Sam. I'm walking around the lake now."
+      ],
+      [
+        "B",
+        "Wow! It's beautiful, Molly."
+      ],
+      [
+        "G",
+        "Yes, I feel great."
+      ],
+      [
+        "B",
+        "Let's go there together next time."
+      ],
+      [
+        "G",
+        "Okay."
+      ]
+    ]
+  },
+  {
+    "id": "p102-a2",
+    "lines": [
+      [
+        "G",
+        "Carl, can you see me?"
+      ],
+      [
+        "B",
+        "Yes. How are you doing?"
+      ],
+      [
+        "G",
+        "I'm great."
+      ],
+      [
+        "B",
+        "How did the piano contest go?"
+      ],
+      [
+        "G",
+        "Look at this! I won the gold medal."
+      ],
+      [
+        "B",
+        "Congratulations! I'm happy to hear that."
+      ]
+    ]
+  },
+  {
+    "id": "p102-a3",
+    "lines": [
+      [
+        "G",
+        "Peter, you look sad. What's wrong?"
+      ],
+      [
+        "B",
+        "Look at this. Someone left bad comments on my post. I feel bad."
+      ],
+      [
+        "G",
+        "Oh, no! Don't be upset. Sometimes people are rude online."
+      ],
+      [
+        "B",
+        "Thanks a lot."
+      ]
+    ]
+  },
+  {
+    "id": "p102-a4",
+    "lines": [
+      [
+        "W",
+        "Hi, Mike. Are you okay?"
+      ],
+      [
+        "B",
+        "Hi, Ms. Baker. I still have a fever and a headache."
+      ],
+      [
+        "W",
+        "I'm sorry to hear that. Did you see a doctor?"
+      ],
+      [
+        "B",
+        "Yes, I did."
+      ],
+      [
+        "W",
+        "Get enough rest. See you soon."
+      ],
+      [
+        "B",
+        "Thank you."
+      ]
+    ]
+  },
+  {
+    "id": "p102-b",
+    "lines": [
+      [
+        "B",
+        "Hey, Keri."
+      ],
+      [
+        "W",
+        "Hello. I'm your AI friend, Keri. How are you doing today?"
+      ],
+      [
+        "B",
+        "I don't feel good."
+      ],
+      [
+        "W",
+        "How come?"
+      ],
+      [
+        "B",
+        "My baseball team lost the game. I feel blue."
+      ],
+      [
+        "W",
+        "Oh, I'm sorry to hear that."
+      ],
+      [
+        "B",
+        "Can you cheer me up, Keri?"
+      ],
+      [
+        "W",
+        "Sure. I'll play some happy songs for you."
+      ],
+      [
+        "SFX",
+        "(Music turns on.)"
+      ]
+    ]
+  },
+  {
+    "id": "p104-collect",
+    "lines": [
+      [
+        "W",
+        "Alex saw a ghost in his dream. He feels scared. Jade read a book until late last night. She is sleepy now. Suho feels happy because he got 50 likes on his post. Lucy's dog bit her smartphone, so she is very upset."
+      ]
+    ]
+  },
+  {
+    "id": "p110-a",
+    "lines": [
+      [
+        "G",
+        "I spend a lot of time online these days. How about you, Eric?"
+      ],
+      [
+        "B",
+        "Me, too, Mia. I enjoy watching funny videos."
+      ],
+      [
+        "G",
+        "I like chatting and posting photos online."
+      ],
+      [
+        "B",
+        "But we are not always happy when we are online, right?"
+      ],
+      [
+        "G",
+        "Yes, you are right."
+      ]
+    ]
+  },
+  {
+    "id": "p113-c",
+    "lines": [
+      [
+        "Linda",
+        "What's wrong?"
+      ],
+      [
+        "Arin",
+        "Snowball is missing! Will you post a photo of Snowball on your social media account?"
+      ],
+      [
+        "Linda",
+        "Sure. Send me her photo. Tell me about her."
+      ],
+      [
+        "Arin",
+        "I bought her a ribbon. She likes wearing it. She enjoys sleeping under trees."
+      ],
+      [
+        "Linda",
+        "I'll write that, too. Now my followers will see my post and look for her."
+      ],
+      [
+        "Arin",
+        "Thanks."
+      ],
+      [
+        "Linda",
+        "Max sent me a message. He found Snowball!"
+      ],
+      [
+        "Arin",
+        "She's in Max's garden. Let's go and get her."
+      ]
+    ]
+  },
+  {
+    "id": "p116-r1",
+    "lines": [
+      [
+        "G",
+        "Why are you smiling, Owen?"
+      ],
+      [
+        "B",
+        "I sent my favorite singer a DM, and he replied, “Thanks.”"
+      ],
+      [
+        "G",
+        "Really?"
+      ],
+      [
+        "B",
+        "Yes. I feel so happy now."
+      ]
+    ]
+  },
+  {
+    "id": "p116-r2",
+    "lines": [
+      [
+        "B",
+        "My best friend moved to another country. I'm so sad."
+      ],
+      [
+        "G",
+        "I'm sorry to hear that, Mike."
+      ],
+      [
+        "B",
+        "I cannot see him every day now."
+      ],
+      [
+        "G",
+        "Don't worry. You can do video calls with him."
+      ],
+      [
+        "B",
+        "Oh, that sounds great. I will do that. Thanks."
+      ]
+    ]
+  },
+  {
+    "id": "p116-r3",
+    "lines": [
+      [
+        "B",
+        "You look excited. What's up?"
+      ],
+      [
+        "G",
+        "I got my taekwondo black belt today. I feel great."
+      ]
+    ]
+  },
+  {
+    "id": "p117-r8",
+    "lines": [
+      [
+        "B",
+        "Today, I'll take care of my little sister, Annie. In the morning, I will teach her math. In the afternoon, I will take her to the market and buy her some ice cream."
+      ]
+    ]
+  },
+  {
+    "id": "reading-intro",
+    "lines": [
+      [
+        "W",
+        "These days, we spend a lot of time in the digital world. We like chatting and posting photos online. We also enjoy watching videos. But we sometimes face unhappy situations. Three students share their stories here. Please give them advice."
+      ]
+    ]
+  },
+  {
+    "id": "reading-dohun",
+    "lines": [
+      [
+        "W",
+        "My friend, Jian, sends me too many texts. He even texts in the middle of the night. When I don't reply, he sends me angry emojis. Jian is my good friend, and I want to be kind to him. What should I do?"
+      ],
+      [
+        "W",
+        "It sounds stressful. Only text him short, simple messages."
+      ],
+      [
+        "W",
+        "Say honestly, “Can you text me less?”"
+      ]
+    ]
+  },
+  {
+    "id": "reading-dami",
+    "lines": [
+      [
+        "W",
+        "Yumin, Sia, and I are good friends. Yumin's hobby is posting photos online. Yesterday, when I saw photos on her social media account, I was surprised. In one photo, Sia has a strange face and makes a funny gesture. It had a lot of likes and rude comments about her. Sia knows nothing about this. Should I tell her?"
+      ],
+      [
+        "W",
+        "Of course! You should tell her. Hurry!"
+      ],
+      [
+        "W",
+        "Ask Yumin first. Maybe she doesn't understand the problem."
+      ]
+    ]
+  },
+  {
+    "id": "reading-seoha",
+    "lines": [
+      [
+        "W",
+        "I was in a group chat with four friends. We enjoyed talking about many topics: sports, music, teachers, and classmates. I sometimes shared my problems with these friends. One day, one of them invited his friend to our group chat. Later, he invited another new person. Now I don't feel good in the new group chat."
+      ],
+      [
+        "W",
+        "I understand. Your friend was careless."
+      ],
+      [
+        "W",
+        "Why don't you try to get along with the new people?"
+      ]
+    ]
+  },
+  {
+    "id": "reading-mina",
+    "lines": [
+      [
+        "W",
+        "Mina posted a photo of her first cake. One classmate left a comment: 'That looks strange.' Mina felt embarrassed and wanted to delete the photo. Before replying, she took a short break. Another friend wrote, 'Your first cake is a great start. What will you try next?' This message helped Mina feel confident. She decided to keep the photo and share what she had learned. Now Mina reads her messages twice before sending them. She asks herself, 'Will these words help someone, or hurt them?' A small change in a message can make a big difference."
+      ]
+    ]
+  }
+]

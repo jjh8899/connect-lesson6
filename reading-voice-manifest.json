@@ -1,0 +1,104 @@
+{
+  "engine": "Microsoft Edge neural TTS; generated online, played locally",
+  "voice": "en-US-JennyNeural",
+  "direction": "Bright young adult female impression; synthetic voice, no exact age claimed.",
+  "source": "User supplied reading introduction, three stories and their advice; text unchanged",
+  "files": [
+    {
+      "file": "reading-intro.wav",
+      "cast": [
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        }
+      ],
+      "seconds": 18.69
+    },
+    {
+      "file": "reading-dohun.wav",
+      "cast": [
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        }
+      ],
+      "seconds": 26.09
+    },
+    {
+      "file": "reading-dami.wav",
+      "cast": [
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        }
+      ],
+      "seconds": 35.16
+    },
+    {
+      "file": "reading-seoha.wav",
+      "cast": [
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        }
+      ],
+      "seconds": 31.01
+    },
+    {
+      "file": "reading-mina.wav",
+      "cast": [
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+3Hz"
+        }
+      ],
+      "seconds": 38.4
+    }
+  ]
+}

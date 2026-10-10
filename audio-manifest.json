@@ -1,0 +1,118 @@
+{
+  "voice": "Listening: selected boy 2 (Brian) / girl 3 (Aria); supporting voice Jenny. Reading: Jenny. Synthetic audio.",
+  "source": "User supplied Lesson 6 textbook passages and scripts",
+  "files": [
+    {
+      "file": "p102-a1.wav",
+      "seconds": 15.17,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 728396
+    },
+    {
+      "file": "p102-a2.wav",
+      "seconds": 17.35,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 832748
+    },
+    {
+      "file": "p102-a3.wav",
+      "seconds": 19.02,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 913196
+    },
+    {
+      "file": "p102-a4.wav",
+      "seconds": 21.5,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 1032044
+    },
+    {
+      "file": "p102-b.wav",
+      "seconds": 27.22,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 1306412
+    },
+    {
+      "file": "p104-collect.wav",
+      "seconds": 18.21,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 874316
+    },
+    {
+      "file": "p110-a.wav",
+      "seconds": 19.73,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 947276
+    },
+    {
+      "file": "p113-c.wav",
+      "seconds": 38.54,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 1850156
+    },
+    {
+      "file": "p116-r1.wav",
+      "seconds": 13.0,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 624044
+    },
+    {
+      "file": "p116-r2.wav",
+      "seconds": 18.56,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 890828
+    },
+    {
+      "file": "p116-r3.wav",
+      "seconds": 8.15,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 391148
+    },
+    {
+      "file": "p117-r8.wav",
+      "seconds": 10.46,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 502220
+    },
+    {
+      "file": "reading-dami.wav",
+      "seconds": 35.16,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 1687820
+    },
+    {
+      "file": "reading-dohun.wav",
+      "seconds": 26.09,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 1252364
+    },
+    {
+      "file": "reading-intro.wav",
+      "seconds": 18.69,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 897356
+    },
+    {
+      "file": "reading-seoha.wav",
+      "seconds": 31.01,
+      "sampleRate": 24000,
+      "channels": 1,
+      "bytes": 1488524
+    }
+  ]
+}

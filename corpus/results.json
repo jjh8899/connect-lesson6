@@ -1,0 +1,242 @@
+{
+  "corpus": "Brown, US published texts, 1961",
+  "source": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/brown.zip",
+  "sha256": "9b275f9b3b95d7bd66ccfb7cd259f445a13bbe5d1f4107aba09fd3e8364bafa6",
+  "method": "Sentence presence 2x2 one-sided Fisher exact test, Holm correction over 10 prespecified pairs; positive PMI and >=5 forward window (1-4 tokens) matches. Exploratory sentence association, not proof of full phrase collocation. Inflections explicit; sentence boundaries are Brown lines.",
+  "limitations": "Historical corpus unsuitable for contemporary digital senses. No disambiguation of homonyms. Sentences from a document are not independent; p-values are exploratory. Word-pair significance does not establish the complete phrase.",
+  "results": [
+    {
+      "phrase": "spend time",
+      "A": [
+        "spend",
+        "spends",
+        "spent",
+        "spending"
+      ],
+      "B": [
+        "time"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 203,
+      "collocateSentences": 1525,
+      "cooccurrenceSentences": 43,
+      "expected": 5.398936170212766,
+      "PMI": 2.993589594307197,
+      "p": 3.9181404703561584e-26,
+      "nearFrequency": 23,
+      "exactFrequency": null,
+      "adjustedP": 3.9181404703561582e-25,
+      "supported": true
+    },
+    {
+      "phrase": "post a photo",
+      "A": [
+        "post",
+        "posts",
+        "posted",
+        "posting"
+      ],
+      "B": [
+        "photo",
+        "photos",
+        "photograph",
+        "photographs"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 115,
+      "collocateSentences": 45,
+      "cooccurrenceSentences": 0,
+      "expected": 0.09025113358911754,
+      "PMI": null,
+      "p": 1,
+      "nearFrequency": 0,
+      "exactFrequency": null,
+      "adjustedP": 1,
+      "supported": false
+    },
+    {
+      "phrase": "send someone a text message",
+      "A": [
+        "send",
+        "sends",
+        "sent",
+        "sending"
+      ],
+      "B": [
+        "text",
+        "texts"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 252,
+      "collocateSentences": 57,
+      "cooccurrenceSentences": 0,
+      "expected": 0.2505057551447506,
+      "PMI": null,
+      "p": 1,
+      "nearFrequency": 0,
+      "exactFrequency": null,
+      "adjustedP": 1,
+      "supported": false
+    },
+    {
+      "phrase": "share one’s problems",
+      "A": [
+        "share",
+        "shares",
+        "shared",
+        "sharing"
+      ],
+      "B": [
+        "problem",
+        "problems"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 191,
+      "collocateSentences": 552,
+      "cooccurrenceSentences": 5,
+      "expected": 1.838716428322288,
+      "PMI": 1.4432290942013306,
+      "p": 0.03821101807522459,
+      "nearFrequency": 0,
+      "exactFrequency": null,
+      "adjustedP": 0.15284407230089836,
+      "supported": false
+    },
+    {
+      "phrase": "make a gesture",
+      "A": [
+        "make",
+        "makes",
+        "made",
+        "making"
+      ],
+      "B": [
+        "gesture",
+        "gestures"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 2278,
+      "collocateSentences": 39,
+      "cooccurrenceSentences": 6,
+      "expected": 1.5493896058597838,
+      "PMI": 1.953262534278682,
+      "p": 0.004133696363135808,
+      "nearFrequency": 2,
+      "exactFrequency": null,
+      "adjustedP": 0.028935874541950655,
+      "supported": false
+    },
+    {
+      "phrase": "leave a comment",
+      "A": [
+        "leave",
+        "leaves",
+        "left",
+        "leaving"
+      ],
+      "B": [
+        "comment",
+        "comments"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 807,
+      "collocateSentences": 72,
+      "cooccurrenceSentences": 3,
+      "expected": 1.013324032089292,
+      "PMI": 1.5658669201289495,
+      "p": 0.0813409806553531,
+      "nearFrequency": 0,
+      "exactFrequency": null,
+      "adjustedP": 0.24402294196605928,
+      "supported": false
+    },
+    {
+      "phrase": "give someone advice",
+      "A": [
+        "give",
+        "gives",
+        "gave",
+        "given",
+        "giving"
+      ],
+      "B": [
+        "advice"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 1235,
+      "collocateSentences": 52,
+      "cooccurrenceSentences": 7,
+      "expected": 1.1199860481339379,
+      "PMI": 2.643874161572358,
+      "p": 0.0001214437167299036,
+      "nearFrequency": 3,
+      "exactFrequency": null,
+      "adjustedP": 0.0009715497338392288,
+      "supported": false
+    },
+    {
+      "phrase": "win a gold medal",
+      "A": [
+        "win",
+        "wins",
+        "won",
+        "winning"
+      ],
+      "B": [
+        "medal",
+        "medals"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 157,
+      "collocateSentences": 11,
+      "cooccurrenceSentences": 1,
+      "expected": 0.03011859086152773,
+      "PMI": 5.053201916598962,
+      "p": 0.029712183338331335,
+      "nearFrequency": 0,
+      "exactFrequency": null,
+      "adjustedP": 0.14856091669165666,
+      "supported": false
+    },
+    {
+      "phrase": "in the middle of",
+      "A": [
+        "middle"
+      ],
+      "B": [
+        "of"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 115,
+      "collocateSentences": 23493,
+      "cooccurrenceSentences": 85,
+      "expected": 47.117108475758634,
+      "PMI": 0.851211835946224,
+      "p": 7.613545016769858e-13,
+      "nearFrequency": 44,
+      "exactFrequency": 23,
+      "adjustedP": 6.852190515092872e-12,
+      "supported": true
+    },
+    {
+      "phrase": "in the middle of the night",
+      "A": [
+        "middle"
+      ],
+      "B": [
+        "night"
+      ],
+      "sentences": 57340,
+      "nodeSentences": 115,
+      "collocateSentences": 403,
+      "cooccurrenceSentences": 4,
+      "expected": 0.8082490408092082,
+      "PMI": 2.3071282046555432,
+      "p": 0.00901410791231334,
+      "nearFrequency": 3,
+      "exactFrequency": 3,
+      "adjustedP": 0.05408464747388004,
+      "supported": false
+    }
+  ]
+}

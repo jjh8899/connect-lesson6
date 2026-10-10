@@ -1,0 +1,409 @@
+{
+  "engine": "Microsoft Edge neural TTS; generated online, played locally",
+  "source": "User supplied Lesson 6 scripts; text unchanged",
+  "note": "Synthetic voices selected for youthful character; not actual student recordings. Reading audio unchanged.",
+  "files": [
+    {
+      "file": "p102-a1.wav",
+      "cast": [
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        }
+      ],
+      "seconds": 15.17
+    },
+    {
+      "file": "p102-a2.wav",
+      "cast": [
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        }
+      ],
+      "seconds": 17.35
+    },
+    {
+      "file": "p102-a3.wav",
+      "cast": [
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+0%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        }
+      ],
+      "seconds": 19.02
+    },
+    {
+      "file": "p102-a4.wav",
+      "cast": [
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+0Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+0Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+0Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        }
+      ],
+      "seconds": 21.5
+    },
+    {
+      "file": "p102-b.wav",
+      "cast": [
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+0Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+0Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+0Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+0Hz"
+        }
+      ],
+      "seconds": 27.22
+    },
+    {
+      "file": "p104-collect.wav",
+      "cast": [
+        {
+          "role": "W",
+          "voice": "en-US-JennyNeural",
+          "rate": "+0%",
+          "pitch": "+0Hz"
+        }
+      ],
+      "seconds": 18.21
+    },
+    {
+      "file": "p110-a.wav",
+      "cast": [
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        }
+      ],
+      "seconds": 19.73
+    },
+    {
+      "file": "p113-c.wav",
+      "cast": [
+        {
+          "role": "Linda",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "Arin",
+          "voice": "en-US-JennyNeural",
+          "rate": "+2%",
+          "pitch": "+5Hz"
+        },
+        {
+          "role": "Linda",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "Arin",
+          "voice": "en-US-JennyNeural",
+          "rate": "+2%",
+          "pitch": "+5Hz"
+        },
+        {
+          "role": "Linda",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "Arin",
+          "voice": "en-US-JennyNeural",
+          "rate": "+2%",
+          "pitch": "+5Hz"
+        },
+        {
+          "role": "Linda",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "Arin",
+          "voice": "en-US-JennyNeural",
+          "rate": "+2%",
+          "pitch": "+5Hz"
+        }
+      ],
+      "seconds": 38.54
+    },
+    {
+      "file": "p116-r1.wav",
+      "cast": [
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        }
+      ],
+      "seconds": 13.0
+    },
+    {
+      "file": "p116-r2.wav",
+      "cast": [
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+0%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        },
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        }
+      ],
+      "seconds": 18.56
+    },
+    {
+      "file": "p116-r3.wav",
+      "cast": [
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        },
+        {
+          "role": "G",
+          "voice": "en-US-AriaNeural",
+          "rate": "+5%",
+          "pitch": "+10Hz"
+        }
+      ],
+      "seconds": 8.15
+    },
+    {
+      "file": "p117-r8.wav",
+      "cast": [
+        {
+          "role": "B",
+          "voice": "en-US-BrianNeural",
+          "rate": "+0%",
+          "pitch": "+8Hz"
+        }
+      ],
+      "seconds": 10.46
+    }
+  ]
+}
